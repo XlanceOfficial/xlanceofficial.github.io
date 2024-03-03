@@ -65,6 +65,7 @@ body {
 }
 .title {
     text-align: center;
+    color: white;
 }
 @keyframes orbit {
     to {
